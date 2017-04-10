@@ -25,7 +25,7 @@ s.source           = { :git => "https://github.com/JingRuiWangKe/JRModuleTest.gi
 
 s.ios.deployment_target = '8.0'
 s.platform     = :ios, '8.0'
-#s.source_files = 'JRModuleTest/Classes/**/*'
+s.source_files = 'JRModuleTest/Classes/**/*'
 
 s.frameworks = 'UIKit'
 
