@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func onBtnClick(_ sender: UIButton) {
-        let to = HomePageViewController()
+        let to = NnnViewController()
         present(to, animated: true, completion: nil)
     }
     

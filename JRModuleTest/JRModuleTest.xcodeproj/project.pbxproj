@@ -13,6 +13,8 @@
 		2B5BB2A61E9B1DAB007FBEEE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B5BB2A51E9B1DAB007FBEEE /* Assets.xcassets */; };
 		2B5BB2A91E9B1DAB007FBEEE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B5BB2A71E9B1DAB007FBEEE /* LaunchScreen.storyboard */; };
 		2B5BB2B51E9B1EB7007FBEEE /* HomePageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B5BB2B41E9B1EB7007FBEEE /* HomePageViewController.swift */; };
+		2B5BB2D61E9B2AF0007FBEEE /* NnnViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B5BB2D41E9B2AF0007FBEEE /* NnnViewController.swift */; };
+		2B5BB2D71E9B2AF0007FBEEE /* NnnViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2B5BB2D51E9B2AF0007FBEEE /* NnnViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		2B5BB2A81E9B1DAB007FBEEE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2B5BB2AA1E9B1DAB007FBEEE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2B5BB2B41E9B1EB7007FBEEE /* HomePageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomePageViewController.swift; sourceTree = "<group>"; };
+		2B5BB2D41E9B2AF0007FBEEE /* NnnViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NnnViewController.swift; sourceTree = "<group>"; };
+		2B5BB2D51E9B2AF0007FBEEE /* NnnViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NnnViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,8 @@
 			isa = PBXGroup;
 			children = (
 				2B5BB2B41E9B1EB7007FBEEE /* HomePageViewController.swift */,
+				2B5BB2D41E9B2AF0007FBEEE /* NnnViewController.swift */,
+				2B5BB2D51E9B2AF0007FBEEE /* NnnViewController.xib */,
 			);
 			path = JJJJJJ;
 			sourceTree = "<group>";
@@ -145,6 +151,7 @@
 				2B5BB2A91E9B1DAB007FBEEE /* LaunchScreen.storyboard in Resources */,
 				2B5BB2A61E9B1DAB007FBEEE /* Assets.xcassets in Resources */,
 				2B5BB2A41E9B1DAB007FBEEE /* Main.storyboard in Resources */,
+				2B5BB2D71E9B2AF0007FBEEE /* NnnViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -158,6 +165,7 @@
 				2B5BB2A11E9B1DAB007FBEEE /* ViewController.swift in Sources */,
 				2B5BB29F1E9B1DAB007FBEEE /* AppDelegate.swift in Sources */,
 				2B5BB2B51E9B1EB7007FBEEE /* HomePageViewController.swift in Sources */,
+				2B5BB2D61E9B2AF0007FBEEE /* NnnViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
