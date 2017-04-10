@@ -16,8 +16,8 @@ class ViewController: UIViewController {
     }
 
     @IBAction func onBtnClick(_ sender: UIButton) {
-        let to = UIStoryboard.init(name: "InterFace", bundle: nil).instantiateInitialViewController()
-        present(to!, animated: true, completion: nil)
+        let to = HomePageViewController()
+        present(to, animated: true, completion: nil)
     }
     
     override func didReceiveMemoryWarning() {
