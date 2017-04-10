@@ -15,6 +15,8 @@ open class HomePageViewController: UIViewController {
         
         view.backgroundColor = UIColor.cyan
         print("hello world")
+        
+        print(Bundle.main)
     }
     
     /*
